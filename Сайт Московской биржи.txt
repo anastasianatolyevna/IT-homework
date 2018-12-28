@@ -1,0 +1,2 @@
+https://www.moex.com/ru/listing/securities-list.aspx
+Отсюда взял файл классификации тикеров.
